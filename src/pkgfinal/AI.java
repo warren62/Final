@@ -7,7 +7,7 @@ package pkgfinal;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-/** class AI instantiates a BinaryTree and manipulates is using binary tree methods.
+/** class AI instantiates a BinaryTree and manipulates it using binary tree methods.
  *  this class creates the AI that serves as the programs voice and prompter
  *
  * @author Steven
